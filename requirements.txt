@@ -1,0 +1,5 @@
+opencv-python
+PyAudio
+wikipedia
+playsound
+gTTS
