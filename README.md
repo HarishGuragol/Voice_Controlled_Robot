@@ -1,5 +1,5 @@
 # Voice_Controlled_Robot
-An voice enabled personal assistant robot (GROOT).
+An voice enabled Personal Assistant Robot (GROOT).
 
 ###### Note - Place rpi.py file on Raspberry Pi
 Download yolo weights from [here](https://drive.google.com/uc?export=download&confirm=GU6P&id=1P0meG3sz6jOEtQPGQKNdSY_KEtraX7eq) and put in yolo-coco directory
